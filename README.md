@@ -1,6 +1,6 @@
 **Square and Multiply**
 
-This is a simple implementation of the Square and Multiply.
+This is a simple implementation of the Square and Multiply algorithm.
 It is used for example for the RSA encryption algorithm.
 
 
